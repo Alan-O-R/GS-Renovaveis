@@ -242,10 +242,10 @@ para rodar o projeto, primeiro é necessário clonar o projeto em sua maquina:
 git clone https://github.com/Alan-O-R/GS-Renovaveis.git
 ```
 
-Entre na pasta:
+Entre na pasta caso não esteja nela:
 
 ```bash
-cd Citizen-Assist-AI
+cd GS-Renovaveis
 ```
 
 ### 2. Criar um ambiente virtual
